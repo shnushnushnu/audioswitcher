@@ -1,6 +1,6 @@
 # audioswitcher
 MacOS Audio Switcher for programs such as Logic X, Ableton Live, Zoom, FaceTime, etc. to instantly reset coreaudiod with a single click after bugs. <br>
-**BROKEN AS OF 11/2/2025, WORKING ON FIX, PYTHON BEHAVING ODD ON M SERIES**
+**BROKEN AS OF 11/2/2025
 
 
 Workaround: <br>
